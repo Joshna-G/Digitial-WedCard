@@ -21,10 +21,8 @@ const footerLinks = {
     ],
     social: [
         { name: "Instagram", href: "#" },
-        { name: "Facebook", href: "#" },
-        { name: "Twitter", href: "#" },
         { name: "Thread", href: "#" },
-        { name: "Youtube", href: "#" }
+        { name: "Email", href: "#" }
     ]
 };
 
