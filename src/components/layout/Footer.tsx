@@ -100,7 +100,7 @@ export function Footer() {
                     </div>
 
                     {/* Copyright & Bottom Info */}
-                    <div className="flex flex-col md:flex-row justify-between items-center text-xs text-text-main/40 uppercase tracking-widest border-t border-text-main/10 pt-8 w-full max-w-6xl mx-auto relative z-10">
+                    <div className="flex flex-col md:flex-row justify-between items-center text-xs text-text-main/70 uppercase tracking-widest border-t border-text-main/10 pt-8 w-full max-w-6xl mx-auto relative z-10">
                         <p>Built with Love.</p>
                         <p>Crafted by Joshna</p>
                     </div>
